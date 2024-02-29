@@ -28,7 +28,7 @@ This tutorial outlines the post-install process of OsTicket. We are going to cre
 
 1.) Configure Roles:
 
-Access the Admin Panel and navigate to Agents > Roles to configure roles. Create the role of Supreme Admin.
+Access the Admin Panel and navigate to Agents > Roles to configure roles. Create the role of Supreme Admin that has permission to do everything within your help desk environment.
 
 2.) Configure Departments:
 
@@ -44,7 +44,7 @@ Go to Settings > User Settings and set "Registration Required" to require regist
 
 5.) Configure Agents (workers) and Users (customers):
 
-Admin panel> Add agents and users under the Agents and Users sections, respectively. Create add new and create agents John Doe and Jane Doe. Then go to the agent panel and create customers Karen Smith and Ken Smith.
+Admin panel> Add agents and users under the Agents and Users sections, respectively. Create add new and create agents John Doe and Jane Doe. Then go to the agent panel and create customers Karen Smith and Ken Smith. Make sure to give your agents permissions that will allow them to view and work the tickets; give one the rule of supreme admin.
 
 6.) Configure SLA:
 
