@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install process of OsTicket after we previously installed it. We are going to create some arbitrary roles and rules to simulate the help desk environment.<br />
+This tutorial outlines the post-install process of OsTicket after we previously installed it. We are going to create some arbitrary roles and rules to simulate the help desk environment. This tutorial is relatively straightforward and intuitive. <br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -26,6 +26,32 @@ This tutorial outlines the post-install process of OsTicket after we previously 
 
 <h2>Configuration Steps</h2>
 
-1.) 
+1.) Configure Roles:
+
+Access the Admin Panel and navigate to Agents > Roles to configure roles.
+
+2.) Configure Departments:
+
+ Navigate to Agents > Departments to configure departments.
+
+3.) Configure Teams:
+
+Navigate to Agents > Teams to configure teams.
+
+4.) Allow Anyone to Create Tickets:
+
+Go to Settings > User Settings and set "Registration Required" to require registration and login to create tickets.
+
+5.) Configure Agents (workers) and Users (customers):
+
+Add agents and users under the Agents and Users sections, respectively.
+
+6.) Configure SLA:
+
+Access Manage > SLA to configure Service Level Agreements.
+
+7.) Configure Help Topics:
+
+Manage > Help Topics to configure different help topics. 
 
 
