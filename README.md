@@ -28,15 +28,15 @@ This tutorial outlines the post-install process of OsTicket after we previously 
 
 1.) Configure Roles:
 
-Access the Admin Panel and navigate to Agents > Roles to configure roles.
+Access the Admin Panel and navigate to Agents > Roles to configure roles. Create the role of Supreme Admin.
 
 2.) Configure Departments:
 
- Navigate to Agents > Departments to configure departments.
+ Navigate to Agents > Departments to configure departments. Create the System Admin department.
 
 3.) Configure Teams:
 
-Navigate to Agents > Teams to configure teams.
+Navigate to Agents > Teams to configure teams. Create level 1 and two support teams.
 
 4.) Allow Anyone to Create Tickets:
 
@@ -44,14 +44,19 @@ Go to Settings > User Settings and set "Registration Required" to require regist
 
 5.) Configure Agents (workers) and Users (customers):
 
-Add agents and users under the Agents and Users sections, respectively.
+Admin panel> Add agents and users under the Agents and Users sections, respectively. Create add new and create agents John Doe and Jane Doe. Then go to the agent panel and create customers Karen Smith and Ken Smith.
 
 6.) Configure SLA:
 
-Access Manage > SLA to configure Service Level Agreements.
+Access Manage in Admin panel > SLA to configure Service Level Agreements. Create SEV A, B, and C SLA tiers. 
 
 7.) Configure Help Topics:
 
-Manage > Help Topics to configure different help topics. 
+Admin panel> Manage > Help Topics to configure different help topics. Create Business Critical Outages, Personal Computer Issues, Equipment Reset, and Password Reset help topics. 
+
+Finish! After this, we are ready to play around and create tickets in osTicket and "resolve" them. You are also welcome to create additional users, roles, help topics, etc. 
+
+![Screen Shot 2024-02-29 at 5 40 31 PM](https://github.com/Chillsoda/post-install-config/assets/161760771/a846010a-e8b1-4bdd-b34e-0af93c5ac856)
+
 
 
