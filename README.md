@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install process of OsTicket after we previously installed it. We are going to create some arbitrary roles and rules to simulate the help desk environment. This tutorial is relatively straightforward and intuitive. <br />
+This tutorial outlines the post-install process of OsTicket. We are going to create some arbitrary roles and rules to simulate the help desk environment. This tutorial is relatively straightforward and intuitive compared to the initial installation process. <br />
 
 <h2>Environments and Technologies Used</h2>
 
