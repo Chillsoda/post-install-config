@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the post-install process of OsTicket after we previously installed it. We are going to create some arbitrary roles and rules to simulate the help desk environment.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,29 +22,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create SLA
 - Create potential help topics
   
+![Screen Shot 2024-02-29 at 4 37 26 PM](https://github.com/Chillsoda/post-install-config/assets/161760771/d0c236be-18e5-418a-a10e-508150af0c41)
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+1.) 
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
